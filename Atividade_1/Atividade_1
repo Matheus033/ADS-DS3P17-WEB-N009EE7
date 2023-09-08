@@ -1,0 +1,117 @@
+Pesquisa sobre HTML5
+Introdução
+HTML5 (HyperText Markup Language 5) é a mais recente evolução da linguagem de marcação utilizada para estruturar e exibir conteúdo na web. Ela introduziu uma série de recursos avançados em comparação com suas versões anteriores, permitindo uma experiência mais rica e interativa para os usuários. Neste trabalho, exploraremos as características principais do HTML5, suas diferenças em relação às versões anteriores, sua composição, origem e um vislumbre de seu futuro.
+
+Características do HTML5
+O HTML5 trouxe várias características inovadoras, incluindo:
+
+Tags Semânticas: O HTML5 introduziu um conjunto de tags semânticas que descrevem mais precisamente o conteúdo, como <header>, <nav>, <article>, <section>, <footer>, etc. Isso melhora a acessibilidade e a indexação por mecanismos de busca.
+
+Áudio e Vídeo: O HTML5 incorporou as tags <audio> e <video>, permitindo a reprodução de mídia sem a necessidade de plugins externos, como o Flash.
+
+Canvas: A tag <canvas> oferece um espaço onde é possível renderizar gráficos, animações e outras imagens dinâmicas usando JavaScript.
+
+APIs de Geolocalização e Armazenamento: HTML5 introduziu APIs para acessar a localização do usuário e para armazenar dados localmente no navegador, proporcionando melhor experiência em aplicativos web.
+
+Web Forms 2.0: Formulários web foram aprimorados com novos tipos de campos, validações e recursos de autocompletar.
+
+Web Workers: Permite a execução de scripts em segundo plano, melhorando a capacidade de resposta de aplicativos web complexos.
+
+WebSockets: Fornece uma comunicação bidirecional em tempo real entre o navegador e o servidor.
+
+Diferenças em Relação às Versões Anteriores
+Comparado às versões anteriores do HTML, o HTML5 trouxe mudanças significativas:
+
+Menos Dependência de Plugins: O HTML5 reduziu a necessidade de plugins como o Adobe Flash, tornando a web mais rápida e segura.
+
+Estrutura Mais Limpa: A introdução de tags semânticas facilitou a estruturação do conteúdo de maneira mais legível e significativa.
+
+Compatibilidade Móvel: HTML5 foi projetado com foco na compatibilidade móvel, permitindo a criação de páginas responsivas que se ajustam a diferentes dispositivos.
+
+Suporte a Multimídia Nativa: A capacidade de incorporar áudio e vídeo sem plugins tornou a experiência multimídia mais uniforme em diferentes navegadores.
+
+Armazenamento Local: A API de armazenamento local possibilita que os aplicativos web armazenem dados no navegador do usuário, permitindo uma experiência offline mais robusta.
+
+Composição do HTML5
+O HTML5 é composto por elementos de marcação (tags) que definem a estrutura e o conteúdo de uma página web. Cada elemento é representado por uma tag delimitada por "<>".
+
+Exemplo de estrutura básica em HTML5:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Título da Página</title>
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+    <section>
+        <h2>Seção Principal</h2>
+        <p>Bem-vindo ao meu site!</p>
+    </section>
+    <footer>
+        <p>2023 Meu Site</p>
+    </footer>
+</body>
+</html>
+
+Origem do HTML5
+O HTML5 começou a ser desenvolvido no início dos anos 2000 por um grupo de trabalho chamado WHATWG (Web Hypertext Application Technology Working Group). Eles buscavam aprimorar o HTML para atender às demandas crescentes da web moderna. A especificação do HTML5 foi desenvolvida em paralelo com a evolução dos navegadores, como o Firefox, Chrome, Safari e Internet Explorer.
+
+Futuro do HTML5
+Embora o HTML5 já esteja em uso há algum tempo, seu desenvolvimento continua. Novas especificações e recursos são propostos regularmente. No entanto, a atenção da indústria está se voltando mais para as tecnologias web no geral, como JavaScript e CSS, além de novas tecnologias, como WebAssembly. Ainda assim, o HTML5 continuará sendo uma base sólida para a construção de páginas web e aplicativos por um futuro previsível.
+
+Conclusão
+O HTML5 revolucionou a forma como a web é desenvolvida, trazendo uma série de recursos inovadores e melhorias em relação às versões anteriores. Sua estrutura semântica, suporte multimídia nativo e recursos de armazenamento local contribuíram para uma experiência de usuário mais rica e interativa. A evolução do HTML5 continuará influenciando a paisagem da web, embora outras tecnologias também desempenhem um papel importante nesse cenário em constante mudança.
+
+
+Diferenças entre Navegadores (Motores de Navegação)
+
+Os navegadores da web são as ferramentas essenciais que utilizamos para acessar e interagir com o vasto mundo da internet. Por trás da interface do usuário, existe um componente fundamental conhecido como "motor de navegação" ou "motor de renderização". Esses motores são responsáveis por interpretar e exibir o conteúdo das páginas da web, convertendo o código HTML, CSS e JavaScript em uma representação visual que os usuários podem ver e interagir. Neste trabalho, exploraremos as diferenças entre alguns dos principais motores de navegação de navegadores.
+
+1. Blink (Chromium e derivados):
+Desenvolvido por: Google
+Navegadores Principais: Google Chrome, Microsoft Edge (versões mais recentes), Opera
+Características Principais: Ênfase na velocidade, suporte a tecnologias modernas da web, extensa customização e adição de recursos pelo Google Chrome.
+2. Gecko (Mozilla):
+Desenvolvido por: Mozilla
+Navegadores Principais: Mozilla Firefox
+Características Principais: Foco em privacidade e personalização, desenvolvimento voltado para padrões web abertos, compromisso com a privacidade do usuário.
+3. WebKit:
+Desenvolvido por: Apple
+Navegadores Principais: Safari (até 2021)
+Características Principais: Integração estreita com os dispositivos da Apple, ênfase em desempenho e eficiência energética.
+4. EdgeHTML (Descontinuado):
+Desenvolvido por: Microsoft
+Navegadores Principais: Microsoft Edge (versões anteriores)
+Características Principais: Integração com o sistema operacional Windows, suporte a tecnologias Microsoft e interações avançadas com o sistema.
+5. Servo (Experimentação):
+Desenvolvido por: Mozilla Research
+Características Principais: Foco em paralelismo e desempenho, escrito em Rust, ainda em fase de experimentação e desenvolvimento ativo.
+6. Presto (Descontinuado):
+Desenvolvido por: Opera Software
+Navegadores Principais: Opera (versões anteriores)
+Características Principais: Ênfase em inovação, velocidade e eficiência.
+7. Trident (Descontinuado):
+Desenvolvido por: Microsoft
+Navegadores Principais: Internet Explorer (descontinuado)
+Características Principais: Desenvolvido para suportar as tecnologias da época, muitas vezes não estava em conformidade com os padrões modernos da web.
+Comparação de Recursos e Desempenho:
+Cada motor de navegação possui suas próprias características e pontos fortes:
+
+Desempenho: Alguns motores se destacam em termos de velocidade de renderização e carregamento de páginas.
+Padrões da Web: Alguns motores estão mais comprometidos com a aderência aos padrões da web.
+Privacidade: A abordagem à privacidade do usuário varia, com alguns navegadores focando fortemente nesse aspecto.
+Customização: A extensibilidade e customização podem variar, permitindo aos usuários personalizarem sua experiência de navegação.
+Suporte a Tecnologias: Alguns motores podem ser mais rápidos em adotar e implementar novas tecnologias da web.
+É importante notar que, embora os motores de navegação sejam cruciais para a experiência de navegação, os navegadores em si também agregam outras características, como segurança, gerenciamento de abas, extensões e mais.
+
+Em resumo, os motores de navegação são peças fundamentais no ecossistema dos navegadores da web, influenciando diretamente a maneira como as páginas são exibidas e interagidas pelos usuários. Cada motor possui suas próprias vantagens e desvantagens, e a escolha de um navegador muitas vezes leva em consideração uma combinação de fatores, como desempenho, privacidade, suporte a tecnologias e preferências pessoais do usuário.
