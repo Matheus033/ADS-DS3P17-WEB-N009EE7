@@ -1,0 +1,56 @@
+Introdução às Tags HTML:
+
+HTML (HyperText Markup Language) é a linguagem de marcação usada para criar páginas da web. As tags HTML são elementos usados para estruturar o conteúdo de uma página da web e definir como ele deve ser exibido em um navegador. Abaixo estão algumas das principais tags HTML usadas na construção de páginas da web:
+
+1. <html>
+
+A tag <html> é o elemento raiz de uma página HTML e contém todo o conteúdo da página.
+2. <head>
+
+A tag <head> contém informações sobre a página, como o título da página, links para estilos CSS, metadados e outras configurações.
+3. <title>
+
+A tag <title> define o título da página que aparece na guia do navegador ou na barra de título.
+4. <meta>
+
+A tag <meta> fornece metadados sobre a página, como descrição, autor e conjunto de caracteres.
+5. <link>
+
+A tag <link> é usada para vincular a folhas de estilo externas (CSS) à página HTML.
+6. <style>
+
+A tag <style> permite que você defina estilos CSS diretamente na página HTML.
+7. <script>
+
+A tag <script> é usada para incluir scripts JavaScript na página.
+8. <body>
+
+A tag <body> contém todo o conteúdo visível da página, como texto, imagens e links.
+9. <h1>, <h2>, <h3>, <h4>, <h5>, <h6>
+
+Essas tags são usadas para definir cabeçalhos de diferentes níveis, do mais importante <h1> ao menos importante <h6>.
+10. <p>
+
+A tag <p> é usada para definir parágrafos de texto.
+11. <a>
+
+A tag <a> cria links para outras páginas da web ou recursos.
+12. <img>
+
+A tag <img> insere imagens na página.
+13. <ul>, <ol>, <li>
+
+Essas tags são usadas para criar listas não ordenadas (<ul>) e listas ordenadas (<ol>) e seus itens (<li>).
+14. <div>
+
+A tag <div> é um elemento de divisão usado para agrupar outros elementos HTML e aplicar estilos ou comportamentos a eles.
+15. <span>
+
+A tag <span> é usada para aplicar estilos ou comportamentos a partes específicas do texto.
+16. <table>, <tr>, <td>, <th>
+
+Essas tags são usadas para criar tabelas e suas linhas e células.
+17. <form>, <input>, <button>, <label>
+
+Essas tags são usadas para criar formulários interativos para coletar informações do usuário.
+Essas são algumas das principais tags HTML que você encontrará ao criar páginas da web. Existem muitas outras tags disponíveis, cada uma com seu próprio propósito e função específicos. À medida que você se torna mais familiarizado com HTML, poderá explorar outras tags e suas capacidades para criar páginas da web mais complexas e interativas.
